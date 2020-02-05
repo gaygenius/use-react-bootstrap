@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/use-react-bootstrap/static/css/main.d1b05096.chunk.css",
+    "main.js": "/use-react-bootstrap/static/js/main.e991f67a.chunk.js",
+    "main.js.map": "/use-react-bootstrap/static/js/main.e991f67a.chunk.js.map",
+    "runtime-main.js": "/use-react-bootstrap/static/js/runtime-main.b8028f23.js",
+    "runtime-main.js.map": "/use-react-bootstrap/static/js/runtime-main.b8028f23.js.map",
+    "static/js/2.19fb4c3a.chunk.js": "/use-react-bootstrap/static/js/2.19fb4c3a.chunk.js",
+    "static/js/2.19fb4c3a.chunk.js.map": "/use-react-bootstrap/static/js/2.19fb4c3a.chunk.js.map",
+    "index.html": "/use-react-bootstrap/index.html",
+    "precache-manifest.fa5e60e9e64345c37b45161d44a34921.js": "/use-react-bootstrap/precache-manifest.fa5e60e9e64345c37b45161d44a34921.js",
+    "service-worker.js": "/use-react-bootstrap/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/use-react-bootstrap/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.19fb4c3a.chunk.js.LICENSE": "/use-react-bootstrap/static/js/2.19fb4c3a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/use-react-bootstrap/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8028f23.js",
+    "static/js/2.19fb4c3a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e991f67a.chunk.js"
+  ]
+}
